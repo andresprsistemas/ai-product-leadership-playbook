@@ -4,9 +4,9 @@
 
 This repository documents practical frameworks, operating models and lessons learned for building AI-assisted digital products.
 
-The purpose is not to teach prompt engineering or showcase AI tools.
+It is not about prompt engineering or showcasing AI tools.
 
-The purpose is to explore how product leaders, founders and organizations can use AI to accelerate product development while maintaining quality, accountability and strategic focus.
+Instead, it explores how product leaders, founders and organizations can use AI to accelerate product development while maintaining quality, accountability and strategic focus.
 
 The ideas presented here are based on real-world experience leading digital products, large-scale operations and AI-assisted product development initiatives.
 
@@ -35,10 +35,7 @@ This raises a different set of questions:
 * How do we validate AI-generated work?
 * How do we create repeatable operating models instead of isolated experiments?
 
-I created this repository for two reasons. First, to document and refine my own learning. Second, to share practical approaches that may help non-developers and product leaders use AI effectively without assuming that human judgment has become less important.
-
-This repository is my attempt to explore those questions through practical frameworks, lessons learned and real-world observations.
-
+I created this repository to document and refine my own learning, and to share practical approaches that may help non-developers and product leaders use AI effectively without assuming that human judgment has become less important.
 
 ---
 
@@ -60,9 +57,7 @@ The focus is on product leadership, decision-making, governance, organizational 
 
 ## What You Will Find Here
 
-This repository is not about prompt engineering.
-
-It focuses on the practical challenges of building products with AI, including:
+This repository focuses on the practical challenges of building products with AI, including:
 
 * Product discovery and validation
 * Structuring AI-assisted development workflows
@@ -91,6 +86,7 @@ The repository will be expanded over time and is expected to cover:
 - Release Governance
 - AI Product Anti-Patterns
 - Lessons Learned from Real Projects
+
 ---
 
 ## About the Author
@@ -99,7 +95,7 @@ André Moreira is a Product and Operations Leader with more than 15 years of exp
 
 His work combines product leadership, operational governance, agile practices and a background in anthropology. That combination shapes his approach to AI-assisted product development: questioning assumptions, challenging easy answers and treating human judgment as part of the system, not as something to be replaced.
 
-This playbook started after he left a Head of Product role and began using AI to build and validate a new product from scratch. The experience changed his view of AI. He expected more hallucinations and less coherence, but found that AI could support complex product development when given strong direction. At the same time, he learned that AI does not control itself: it requires clear constraints, constant review and iterative refinement.
+This playbook started after he left a Head of Product role and began using AI to build and validate a new product from scratch. The experience changed his view of AI. He initially expected more hallucinations and less coherence, but found that AI could support complex product development when given strong direction. At the same time, he learned that AI does not control itself: it requires clear constraints, constant review and iterative refinement.
 
 This repository is part learning record, part practical guide. It is intended for product managers, founders and non-developers who want to use AI to build products and businesses without losing product discipline, governance or accountability.
 
