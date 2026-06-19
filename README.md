@@ -8,32 +8,32 @@ It is not about prompt engineering or showcasing AI tools.
 
 Instead, it explores how product leaders, founders and organizations can use AI to accelerate product development while maintaining quality, accountability and strategic focus.
 
-The ideas presented here are based on real-world experience leading digital products, large-scale operations and AI-assisted product development initiatives.
+The ideas presented here are based on my experience leading digital products, large-scale operations and AI-assisted product development initiatives.
 
 ---
 
 ## Why This Repository Exists
 
-My experience with AI-assisted development revealed an interesting pattern: building software became easier, but making good product decisions did not.
+My experience with AI-assisted development revealed an interesting situation: building software became easier, but product management did not.
 
-When I started working with AI-assisted development, I assumed that a well-designed set of prompts, rules and skills would be enough to control most errors and hallucinations. I quickly learned that reality was more complex.
+When I started working with AI-assisted development, I assumed that a good set of prompts, rules and skills would be enough to control most errors and hallucinations. Though I quickly learned that it is not that simple, more than write good specs you have to iterate with AI.
 
-AI systems improve through continuous feedback, refinement and human judgment. New edge cases constantly emerge: ambiguous names, incorrect data sources, conflicting information and unexpected interpretations. Progress is often difficult to measure, especially when working with unstructured data and machine-learning-driven workflows.
+AI systems are powered by continuous feedback, refinement and human judgment. All the time we are faced with new edge cases like: ambiguous names, incorrect data sources, conflicting information and unexpected interpretations. Progress is often difficult to measure, especially when working with unstructured data and machine-learning-driven workflows.
 
 At the same time, my perception of AI changed significantly. My early experiences were disappointing and often unreliable, leading me to stop using these tools for a long period. When I returned, I found a much more capable technology. AI had become remarkably effective at accelerating solution design and implementation, but only when combined with clear constraints, governance mechanisms and active human oversight.
 
 This shift led me to a broader question: as software becomes easier to build, what capabilities become more important?
 
-Most conversations about AI focus on tools, models and capabilities. Far less attention is given to the operating models, decision-making processes and governance mechanisms required to build sustainable products with AI.
+Most conversations about AI focus on tools, models and capabilities, whereas far less attention is given to the operational models, decision-making processes and governance mechanisms required to build sustainable products with AI.
 
-This raises a different set of questions:
+This raises a lot of questions:
 
 * How should product teams work with AI?
 * What decisions should remain human?
 * How do we prevent AI-assisted projects from becoming chaotic?
 * How do we balance speed and governance?
 * How do we validate AI-generated work?
-* How do we create repeatable operating models instead of isolated experiments?
+* How do we create repeatable operational models instead of isolated experiments?
 
 I created this repository to document and refine my own learning, and to share practical approaches that may help non-developers and product leaders use AI effectively without assuming that human judgment has become less important.
 
