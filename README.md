@@ -1,4 +1,4 @@
-# AI Product Leadership Playbook
+# AI Product development guide
 
 **Building AI-assisted products requires product discipline, governance and human judgment.**
 
