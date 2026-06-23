@@ -1,0 +1,27 @@
+# Product Discovery after AI
+
+> AI did not reduce the importance of discovery. It increased the cost of poor discovery.
+
+Discovery de produtos depois da IA
+
+Quando construir ficou fácil demais.
+
+## A falsa promessa do discovery fácil
+
+Confesso que demorei para começar a utilizar IA na gestão de produtos, principalmente na fase de discovery, pois tinha receio de que as alucinações das primeiras versões indicassem caminhos errados, ou até mesmo inventassem dados que justificassem a existência de um produto ou funcionalidade. Entretanto, com o passar do tempo e com o amadurecimento das ferramentas, que trouxeram uma capacidade maior de síntese de dados para comparar hipóteses e levantar padrões em dados públicos, passei a incorporá-las em diversas fases do desenvolvimento de produtos. A partir dessa mudança, o que eu percebi é que a IA não diminuiu a importância do discovery, mas deixou mais arriscado fazer processos de discovery ruins. Esse perigo é resultado da redução do atrito entre ideia e software, pois o maior risco deixa de ser não conseguir desenvolver, e passa a ser construir rápido demais algo que ainda não deveria existir.
+
+## Por que eu desconfiava da IA em produto
+
+Mas para entender como chegamos a esse cenário de risco, preciso voltar um pouco no tempo. Quando testei o ChatGPT no início de 2023 os resultados não foram satisfatórios. No discovery e na pesquisa de mercado, os resultados eram muito genéricos, superficiais e difíceis de confiar. Traziam dados de fácil acesso, não ajudava a realizar análises aprofundadas e não questionava minhas premissas ou minhas ideias de produto. O problema aparecia também no delivery, a minha tentativa de escrever User Stories com IA deu resultados muito ruins, frequentemente as ferramentas criavam requisitos e critérios de aceite que não faziam parte da funcionalidade. Além disso, naquele momento, o custo de desenvolvimento ainda era alto. Portanto, um discovery mal feito, ou uma US com requisitos inventados podiam desperdiçar um backlog caro, ou aumentar muito o tempo de revisão de documentos por parte da equipe de produtos. Esses eram riscos que eu não estava disposto a correr.
+
+Minha desconfiança não vinha apenas do discovery. Ela aparecia em outras etapas do fluxo de produto. O ponto é que muitos desses erros, mesmo quando surgiam no delivery, tinham origem antes: na falta de clareza sobre o problema, sobre as regras de negócio e sobre os limites da solução.
+
+Durante minha gestão como gerente de produto de uma empresa de ticketing, acompanhei tentativas de uso de IA para fazer discovery, US e cenários de teste. Os problemas da utilização se repetiam e ao invés de agilizar os processos acabavam atrapalhando. Um exemplo, foi a elaboração de um documento para criar os cenários de teste do controle de limite de ingressos por compra. Eu criei uma planilha mostrando algumas combinações possíveis, e qual deveria ser o comportamento do sistema para que o PO responsável pudesse usar de base e aprofundar esses cenários para os desenvolvedores. Após 1 semana, os desenvolvedores me chamaram e reclamaram da qualidade do documento enviado a eles. Além dos cenários que eu havia escrito, a ferramenta de IA criou outros cenários que misturavam conceitos de compra por CPF, cupom de desconto, limite por dia de evento, pacote de ingressos. Esses novos cenários não faziam sentido na prática e os desenvolvedores perderam 1 semana tentando reconciliar comportamentos contraditórios. O problema aqui, não era apenas a alucinação, mas a aparência de um documento completo, coerente e útil, quando na verdade ele misturava regras de negócio.
+
+Esse tipo de erro reforçou minha percepção de que IA não deveria ser tratada como atalho para pular etapas. Se o contexto de produto não está claro, a IA não resolve a ambiguidade, ela apenas produz uma versão mais organizada dela.
+
+## O que mudou?
+
+A partir de 2026, comecei um projeto paralelo criando um produto para compradores de vinil usando IA desde o início para me auxiliar. Aos poucos, fui aprendendo que com sistemas de controle, regras, revisão iteração e governança a IA passa a ser uma grande parceira de desenvolvimento de produtos. Nesse projeto, por exemplo, eu solicitei uma pesquisa de mercado para desenvolver uma aplicação que atendesse as dores dos compradores de vinil. O primeiro PRD produzido misturava diversos produtos em um só, desde marketplace, passando por blog, até localização de sebos. Os dados estavam corretos e bem organizados, validei as fontes de pesquisa e as dores dos usuários. Porém, era um projeto inexequível do ponto de vista de produto, não de engenhria. Envolvia várias soluções, que muitas vezes não conversavam, era um super app para vinil. Aí entrou a importância da minha revisão e priorização, tentar encontrar entre todas as funcionalidades qual seria a principal, que nenhum aplicativo ou site resolvia. 
+
+A partir da minha hipótese de que os compradores de vinil tem dificuldade em descobrir os preços e hoje nenhuma ferramenta resolve 100% esse problema no mercado brasileiro, criei junto com a IA uma pesquisa de mercado sobre esse ponto, que pude disparar para vários grupos de compradores de vinil, whatsapp, amigos, reddit. Na sequência, a IA me ajudou a analisar as respostas, pois eram mais de 90, para validar os principais problemas e criar as personas.
